@@ -1,12 +1,10 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" slick-uniqueid="3">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" href="./css/yss.css" type="text/css">
 <style type="text/css">
 </style>
 <title>Yang Cao</title>
-<link rel="shortcut icon" href="./image/shanshan.png" >
+
 </head>
 
 
@@ -44,29 +42,56 @@
 <table id="tbAwards" border="0" width="100%">
   <tbody>
     <tr>
-      <td> 2020.07 -- 2022.07&nbsp; </td>   
+      <td> 2020.10 -- 今 &nbsp; </td>   
       <td> 
-       <strong> 博士后 </strong> <a href="https://math.ustc.edu.cn/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国科学技术大学数学系 </a>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<font color="black" size="3" face="Times New Roman"><a href="https://dsxt.ustc.edu.cn/zj_js.asp?zzid=102"> 指导老师 ：陈发来教授 </a></font>]</td>
+       <strong> 特任研究员 </strong> <a href="https://math.ustc.edu.cn/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国科学技术大学数学系 </a>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
-      <td> 2015.09 -- 2020.07&nbsp; </td>   
+      <td> 2018.09 -- 2020.10 &nbsp; </td>   
       <td> 
-           <strong> 理学博士 </strong></a>  <a href="http://www.amss.ac.cn/">&nbsp;&nbsp;&nbsp;&nbsp; 中国科学院数学与系统科学研究院 </a>
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<font color="black" size="3" face="Times New Roman"><a href="http://people.ucas.edu.cn/~xhjia"> 指导老师 ：贾晓红研究员 </a></font>]</td>
+           <strong> 洪堡学者（博士后） </strong></a>  <a href="https://www.iazd.uni-hannover.de/de/">&nbsp;&nbsp;&nbsp;&nbsp; 德国汉诺威莱布尼兹大学 </a>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;导师 ：<font color="black" size="3" face="Times New Roman"><a href="https://www.iazd.uni-hannover.de/de/derenthal/"> Ulrich Derenthal </a></font></td>
     </tr>
     <tr>
-      <td> 2010.09 -- 2014.07  </td>   
+      <td> 2017.09 -- 2018.08 &nbsp; </td>   
       <td> 
-        <strong> 理学学士 </strong></a>  <a href="http://www.sdnu.edu.cn/">&nbsp;&nbsp;&nbsp;&nbsp; 山东师范大学 </a>
-     </tr>   
+           <strong> 博士后 </strong></a>  <a href="https://www.mpim-bonn.mpg.de/">&nbsp;&nbsp;&nbsp;&nbsp; 德国马克斯普朗克数学研究所 </a>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           </td>
+    </tr>
+      <tr>
+     <td> 2014.09 -- 2017.08 &nbsp; </td>   
+      <td> 
+          <strong> 博士 </strong></a>  <a href="https://www.imo.universite-paris-saclay.fr/fr/la-recherche/">&nbsp;&nbsp;&nbsp;&nbsp; 法国巴黎萨克雷大学 </a>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;导师 ：<font color="black" size="3" face="Times New Roman"><a href="https://www.imo.universite-paris-saclay.fr/~colliot/"> Jean-Louis Colliot-Thélène </a></font> 和 <font color="black" size="3" face="Times New Roman"><a href="https://www.imo.universite-paris-saclay.fr/~harari/"> David Harari </a></font></td>
+    </tr>
+     <tr> 
+    <td> 2013.09 -- 2014.08 &nbsp; </td>   
+      <td> 
+           <strong> 硕士 </strong></a>  <a href="https://www.imo.universite-paris-saclay.fr/fr/la-recherche/">&nbsp;&nbsp;&nbsp;&nbsp; 法国巴黎萨克雷大学 </a>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;导师 ：<font color="black" size="3" face="Times New Roman"><a href="https://www.imo.universite-paris-saclay.fr/~colliot/"> Jean-Louis Colliot-Thélène </a></font></td>
+    </tr>
+      <tr> 
+    <td> 2010.09 -- 2013.08 &nbsp; </td>   
+      <td> 
+           <strong> 硕士 </strong></a>  <a href="https://math.cnu.edu.cn/">&nbsp;&nbsp;&nbsp;&nbsp; 首都师范大学 </a>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;导师 ：徐飞 </td>
+    </tr>
+      <tr> 
+    <td> 2006.09 -- 2010.08 &nbsp; </td>   
+      <td> 
+           <strong> 学士 </strong></a>  <a href="https://www.math.sdu.edu.cn/">&nbsp;&nbsp;&nbsp;&nbsp; 山东大学 </a>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    
   </tbody>
 </table> 
 
 
 <h2>研究方向</h2>
 <p style="text-align:justify;">
-  <font color="black" size="4" face="Times New Roman"> <strong>计算代数几何，计算几何，计算机辅助设计(CAD)</strong> </font>
+  <font color="black" size="4" face="Times New Roman"> <strong>我的研究领域是丢番图几何，即用算术代数几何的方法研究丢番图方程的解。</strong> </font>
 </p>
 
 <h2>发表论文</h2>
@@ -74,7 +99,6 @@
   <table border="0" width="100%">
   <tbody> 
     <tr>
-      
       <td>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167839618301341" target="_blank">µ-Bases for Rational Canal Surfaces</a>        
         <br>
